@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/nutrition-app-with-pwa/static/js/main.fcaed8b0.js",
+    "main.js": "/nutrition-app-with-pwa/static/js/main.881f56d6.js",
+    "service-worker.js": "/nutrition-app-with-pwa/service-worker.js",
     "index.html": "/nutrition-app-with-pwa/index.html",
-    "main.fcaed8b0.js.map": "/nutrition-app-with-pwa/static/js/main.fcaed8b0.js.map"
+    "main.881f56d6.js.map": "/nutrition-app-with-pwa/static/js/main.881f56d6.js.map"
   },
   "entrypoints": [
-    "static/js/main.fcaed8b0.js"
+    "static/js/main.881f56d6.js"
   ]
 }
