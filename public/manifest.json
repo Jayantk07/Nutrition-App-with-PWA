@@ -1,0 +1,8 @@
+{
+    "short_name": "Nutrition App",
+    "name": "Nutrition App Using React with PWA",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#6200ee",
+    "background_color": "#ffffff"
+}
