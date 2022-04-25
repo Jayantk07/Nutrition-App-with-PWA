@@ -4,7 +4,7 @@
 
 ## Overview
 
-A nutrition application created using Create-React-App, Redux and Material-UI using data fetched from [Nutritionix](https://developer.nutritionix.com/). [Click here to view the live version.](https://alexlee22.github.io/nutrition-app/)
+A nutrition application created using Create-React-App, Redux and Material-UI using data fetched from [Nutritionix](https://developer.nutritionix.com/). [Click here to view the live version.](https://jayantk07.github.io/nutrition-app-with-pwa/)
 
 ### Features
 
