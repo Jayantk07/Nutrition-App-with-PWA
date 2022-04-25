@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^2.2.0"
   },
   "homepage": "https://alexlee22.github.io/nutrition-app/"
 }
