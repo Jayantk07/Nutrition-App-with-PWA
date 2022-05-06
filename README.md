@@ -106,5 +106,4 @@ To automatically deploy your site to GitHub pages, run `npm run deploy`.
 
 - Favicons from [favicon.io](https://favicon.io/emoji-favicons/),
 - "Jane" image from [Unsplash](https://unsplash.com/photos/fn_BT9fwg_E),
-- [Nutritionix API](https://developer.nutritionix.com),
-- 2hats for project idea
+- [Nutritionix API](https://developer.nutritionix.com)
